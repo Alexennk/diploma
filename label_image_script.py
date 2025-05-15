@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 import csv
 
 # Load image
-img = plt.imread('rgb_image_split.jpg')
+img = plt.imread('./rgb_image_split.jpg')
 
 # Data structures
 coords = []
